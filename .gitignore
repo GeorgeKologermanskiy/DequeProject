@@ -1,0 +1,9 @@
+Debug/*
+Release/*
+Deque/Debug/*
+Deque/Release/*
+GoogleTestsLibrary/*
+unittest_deque/Debug/*
+unittest_deque/Release/*
+*VC*
+*vs*
